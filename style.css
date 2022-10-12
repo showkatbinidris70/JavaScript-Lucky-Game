@@ -1,0 +1,12 @@
+*{
+    margin: 0 auto;
+}
+#player{
+    margin-top: 10px;
+    padding-bottom: 20px;
+}
+
+.containerd{
+    text-align: center;
+    width: 100%;
+}
